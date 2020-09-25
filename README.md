@@ -1,6 +1,6 @@
 # pyconstants
-This is a python package that aims to bring **real** constants to python
-The project is at planning stage
+This is a python package that aims to bring **real** constants to python.
+The project is at planning stage.
 The project will be released to pypi when I complete coding the `ConstInt`, `ConstStr` and `ConstFloat` classes
 
 ## Things I plan to do
